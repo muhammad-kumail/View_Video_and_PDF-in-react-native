@@ -18,7 +18,7 @@ import {
 import { Video, AVPlaybackStatus } from 'expo-av';
 
 export default function Start({navigation}){
-  const vlink = {uri:'https://firebasestorage.googleapis.com/v0/b/aghazdb.appspot.com/o/39a0e197546340a59808ac6a219270d1%5B1%5D.mp4?alt=media&token=b448863b-3fbb-494d-aaec-8306507d5194'};
+  const vlink = {uri:'http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4'};
   //require('./VID-20171108-WA0002.mp4');
   const pdflink= {uri:'https://docs.google.com/viewerng/viewer?url=https://www.learningcontainer.com/download/sample-pdf-download-10-mb/?wpdmdl%3D1569%26ind%3D0%26refresh%3D60addfd70c6d51622007767'};
   //require('./java_tutorial.pdf');

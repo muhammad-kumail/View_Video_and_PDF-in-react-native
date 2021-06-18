@@ -4,16 +4,6 @@ import React,{useState,useEffect,useRef} from 'react';
 import Start from './start';
 import PdfView from './pdfView';
 import Playvideo from './playvideo';
-import {
-  Text,
-  View,
-  Image,
-  Linking,
-  TouchableOpacity,
-  Dimensions,
-  StyleSheet,
-  SafeAreaView,
-} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
 import {createStackNavigator} from '@react-navigation/stack';
 
